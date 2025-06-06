@@ -41,4 +41,4 @@ descOutput = accessCli.send_command('sh int desc')
 #print(descOutput)
 
 #logout from host
-accessCli.disconnect
+accessCli.disconnect()

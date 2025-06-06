@@ -123,7 +123,7 @@ Task 1 - add IP from python
 	Refer to: giveIP.py
 	
 Task 2 - add loopbacks and internet using python and json
-	Create anothe python script that utilizes a json file to output these commands to apps00
+	Create another python script that utilizes a json file to output these commands to apps00
 		hostname jsonNpython
 		int Loopback1
 		 ip add 1.1.1.1 255.255.255.255
